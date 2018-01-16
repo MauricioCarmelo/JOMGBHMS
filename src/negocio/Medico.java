@@ -1,7 +1,8 @@
 package negocio;
 
 public class Medico extends Usuario {
-
+	
+	// construtor
 	public Medico(String nome, String senha) {
 		super(nome, senha);
 	}

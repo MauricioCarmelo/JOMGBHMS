@@ -2,6 +2,7 @@ package negocio;
 
 public class Gerente extends Usuario{
 	
+	// construtor
 	public Gerente(String nome, String senha) {
 		super(nome, senha);
 	}
